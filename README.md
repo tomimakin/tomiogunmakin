@@ -1,38 +1,38 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Tomi Ogunmakin!
 
 ## 🌟 About Me
-I am a [Your Role] with experience in [Technologies/Fields]. I love creating projects that solve problems and make an impact.
+I am a Software Engineer with experience in web development, backend engineering, cloud systems. I enjoy building meaningful, real-world solutions that solve problems and make a lasting impact.
 
-- 🌱 Currently learning: [Current Skills/Technologies]
-- 🎯 Goals for this year: [Professional/Personal Goals]
-- 📫 Reach me at: [Your Email] | [LinkedIn Profile]
+- 🛠️ Tech I’ve worked with: C#, Java, JavaScript, Python, Golang, Node.js, React, MongoDB, PostgreSQL, AWS, GCP, etc.
+- 💡 I love learning new tools and improving my craft
+- 🚀 Currently exploring: mobile app developemnt, infrastructure as code (IaC) and cloud automation tools
+- 📫 Reach me at: tomiogunmakin@gmail.com
 
 ---
 
 ## 🚀 Projects
 
-### [Project 1 Name](link-to-project)
-**Tech Stack**: React, Node.js, MongoDB  
+### [Project 1](link-to-project)
+**Tech Stack**: React, Node.js, PostgreSQL, AWS
 A brief description of the project and what problem it solves.  
 [View Live](link-to-live-demo) | [View Code](link-to-repository)
 
-### [Project 2 Name](link-to-project)
-**Tech Stack**: Python, Flask, PostgreSQL  
-Another brief description of the project.  
+### [Project 2](link-to-project)
+**Tech Stack**: Python, Flask, PostgreSQL
+Another brief description of the project.
 [View Live](link-to-live-demo) | [View Code](link-to-repository)
 
 ---
 
 ## 💻 Skills
-- **Programming**: JavaScript, Python, C++
-- **Frameworks**: React, Django, Flask
+- **Programming**: JavaScript, Python, C#, Golang
+- **Frameworks**: React, Flutter
 - **Tools**: Git, Docker, Kubernetes
 
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tomimakin&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- **Email**: [tomiogunmakin@gmail.com](mailto:tomiogunmakin@gmail.com)
